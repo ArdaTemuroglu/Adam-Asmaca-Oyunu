@@ -1,0 +1,9 @@
+Arda,5
+Arda,5
+Arda,10
+Arda,15
+Arda,30
+Arda,30
+Arda,15
+Arda,30
+Arda,30
